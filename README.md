@@ -6,11 +6,13 @@
 
 <br>
 
-## Section 0: **Setting-up Your Development Environment**
+## Section 0: **Setting up Your Development Environment**
 
 - [0.1 - Local Development Environment](Section00/0.1-Local-dev-environment.md)
 - [0.1.1 - For Mac/Linux Users](Section00/0.1.1-ForMacUsers.md)
 - [0.1.2 - For Windows Users](Section00/0.1.2-ForWindowsUsers.md)
+- [0.1.3 - Replit Setup](Section00/0.1.3-ReplitEnvironment.md)
+- [0.1.4 - Windows MongoDB Walkthru](Section00/0.1.4-WINDOWS-WALKTHRU.md)
 - [Section 0 - PreCourse Work](Section00/0-PreHomework.md)
 
 ## Section 1: **Project Planning and Career Materials**
@@ -24,8 +26,7 @@
 ## Section 2: **Introduction to Development**
 
 - [2.1 Essential Development Tools](Section02/2.1-EssentialDevTools.md)
-- [2.2.1 Intro to JavaScript](Section02/2.2.1-IntroToJavaScript.md)
-- [2.2.2 JS Data Types And Variables](Section02/2.2.2-DataTypesAndVariables.md)
+- [2.2 Intro to JavaScript](Section02/2.2-JSdataTypeAndVariables.md)
 - [2.3 JS Operators And Flow Control](Section02/2.3-JSOperatorsAndFlowControl.md)
 - [Section 2 - Homework](Section02/2-Homework.md)
 
@@ -34,7 +35,6 @@
 - [3.1 Functions](Section03/3.1-Functions.md)
 - [3.2 Arrays And Objects](Section03/3.2-DataCollections.md)
 - [3.3 HTML And CSS 1](Section03/3.3-HTMLAndCSSBasics.md)
-- [3.4 HTML And CSS Addendum And Review](Section03/3.4-CSSAddendum-UnitsAndVariables.md)
 - [Section 3 - Homework](Section03/3-Homework.md)
 
 ## Section 4: **Frontend Development II**
@@ -69,7 +69,7 @@
 
 ## Section 8: **Backend Development I**
 
-- [8.1 HTTP ReSTful API](Section08/8.1-HTTP-Web-server.md)
+- [8.1 HTTP RESTful API](Section08/8.1-HTTP-Web-server.md)
 - [8.2 Express](Section08/8.2-Express.md)
 - [8.3 Document Storage API - MongoDB](Section08/8.3-Document-Store-API-MongoDB.md)
 - [Section 8 - Homework](Section08/8-Homework.md)
