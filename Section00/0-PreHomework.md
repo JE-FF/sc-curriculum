@@ -8,7 +8,7 @@ Please go to each of the links below and complete each of the courses. They will
 
 1. Three courses in [Code Academy](https://www.codecademy.com/catalog). It's a way to get you exposed as well as make sure you are serious and want to follow through with this program. **DO NOT ACCEPT THE FREE TRIAL of “Pro” FOR CODE ACADEMY**. Please start with the JavaScript!!!!
 
-- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript0)
+- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
 - [Learn CSS](https://www.codecademy.com/learn/learn-css)
 - [Make a Website](https://www.codecademy.com/learn/make-a-website)
@@ -18,7 +18,7 @@ Please go to each of the links below and complete each of the courses. They will
 2. Please go to [FreeCodeCamp](https://www.freecodecamp.org/) for the JavaScript prerequisite:
    https://www.freecodecamp.org/learn/
 
-   Go to the JavaScript Algorithms, then do both:
+   Go to the JavaScript Algorithms and Data Structures Certification, then do both:
 
    - Basic JavaScript
    - ES6
